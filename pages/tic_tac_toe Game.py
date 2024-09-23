@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title='Betta Ai', page_icon='📈', layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title='Tic Tac Toe', page_icon='📈', layout="wide", initial_sidebar_state="collapsed")
 st.logo('images/logo.png', icon_image='images/neww.png')
 st.sidebar.title("Hi There!")
 def create_board():
